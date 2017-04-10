@@ -1,3 +1,3 @@
-# maximum_design
+# Maximum_design
 
 Test my Design
